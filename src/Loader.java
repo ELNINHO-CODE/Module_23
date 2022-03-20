@@ -20,6 +20,7 @@ class Loader {
             }
             result[i] = names[i] + " " + sumPoints [i];
             System.out.println(result[i]);
+            System.out.println(result[i]+1);
         }
     }
 }
