@@ -20,8 +20,7 @@ class Loader {
             }
             result[i] = names[i] + " " + sumPoints [i];
             System.out.println(result[i]);
-            System.out.println(result[i]+1);
-            System.out.println(result[i]+5);
+            System.out.println("New_branch");
         }
     }
 }
